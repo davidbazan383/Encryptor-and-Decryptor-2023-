@@ -1,1 +1,4 @@
-# Encryptor-and-Decryptor-2023-
+Encryptor and Decryptor
+
+Python implementation of the Rail Fence Cypher
+
